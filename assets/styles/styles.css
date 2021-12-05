@@ -1,11 +1,15 @@
-h1 {
-    height: 50px;
-    width: 200px;
+img {
+    width: 300px;
+}
+
+.heading {
     border: chartreuse 2px solid;
     background-color: coral;
     text-align: center;
-    padding-top: 10px;
     border-radius: 30px;
-
-
 }
+
+header {
+    text-align: center;
+}
+
