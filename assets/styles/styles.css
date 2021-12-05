@@ -2,14 +2,23 @@ img {
     width: 300px;
 }
 
-.heading {
-    border: chartreuse 2px solid;
-    background-color: coral;
-    text-align: center;
-    border-radius: 30px;
-}
-
 header {
     text-align: center;
 }
 
+.heading {
+    border: 2px black solid;
+    background-color: #98DDCA;
+    text-align: center;
+    border-radius: 30px;
+    color: white;
+}
+
+section {
+    margin-top: 30px;
+    border: 2px black solid;
+    background-color: #98DDCA;
+    text-align: center;
+    border-radius: 30px;
+    color: white;
+}
